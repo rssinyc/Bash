@@ -1,0 +1,1 @@
+# nmap -p { } --script=ssh2-enum-algos.nse {hostname}
