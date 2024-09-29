@@ -1,1 +1,2 @@
 # nmap -p { } --script=ssh2-enum-algos.nse {hostname}
+# nmap --script=ssh2-enum-algos.nse {hostname} -oN scan.txt
